@@ -1,0 +1,16 @@
+[project]
+name = "mcp-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arxiv>=2.2.0",
+    "crewai[tools]>=0.95.0",
+    "litellm>=1.69.3",
+    "mcp>=1.9.0",
+    "mcp-run>=0.5.0",
+    "nest-asyncio>=1.6.0",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]

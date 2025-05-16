@@ -1,0 +1,62 @@
+{
+  "2101.10848v1": {
+    "title": "Spark NLP: Natural Language Understanding at Scale",
+    "authors": [
+      "Veysel Kocaman",
+      "David Talby"
+    ],
+    "summary": "Spark NLP is a Natural Language Processing (NLP) library built on top of\nApache Spark ML. It provides simple, performant and accurate NLP annotations\nfor machine learning pipelines that can scale easily in a distributed\nenvironment. Spark NLP comes with 1100 pre trained pipelines and models in more\nthan 192 languages. It supports nearly all the NLP tasks and modules that can\nbe used seamlessly in a cluster. Downloaded more than 2.7 million times and\nexperiencing nine times growth since January 2020, Spark NLP is used by 54% of\nhealthcare organizations as the worlds most widely used NLP library in the\nenterprise.",
+    "pdf_url": "http://arxiv.org/pdf/2101.10848v1",
+    "published": "2021-01-26"
+  },
+  "2408.05664v1": {
+    "title": "Training an NLP Scholar at a Small Liberal Arts College: A Backwards Designed Course Proposal",
+    "authors": [
+      "Grusha Prasad",
+      "Forrest Davis"
+    ],
+    "summary": "The rapid growth in natural language processing (NLP) over the last couple\nyears has generated student interest and excitement in learning more about the\nfield. In this paper, we present two types of students that NLP courses might\nwant to train. First, an \"NLP engineer\" who is able to flexibly design, build\nand apply new technologies in NLP for a wide range of tasks. Second, an \"NLP\nscholar\" who is able to pose, refine and answer questions in NLP and how it\nrelates to the society, while also learning to effectively communicate these\nanswers to a broader audience. While these two types of skills are not mutually\nexclusive -- NLP engineers should be able to think critically, and NLP scholars\nshould be able to build systems -- we think that courses can differ in the\nbalance of these skills. As educators at Small Liberal Arts Colleges, the\nstrengths of our students and our institution favors an approach that is better\nsuited to train NLP scholars. In this paper we articulate what kinds of skills\nan NLP scholar should have, and then adopt a backwards design to propose course\ncomponents that can aid the acquisition of these skills.",
+    "pdf_url": "http://arxiv.org/pdf/2408.05664v1",
+    "published": "2024-08-11"
+  },
+  "2407.09861v3": {
+    "title": "Towards Systematic Monolingual NLP Surveys: GenA of Greek NLP",
+    "authors": [
+      "Juli Bakagianni",
+      "Kanella Pouli",
+      "Maria Gavriilidou",
+      "John Pavlopoulos"
+    ],
+    "summary": "Natural Language Processing (NLP) research has traditionally been\npredominantly focused on English, driven by the availability of resources, the\nsize of the research community, and market demands. Recently, there has been a\nnoticeable shift towards multilingualism in NLP, recognizing the need for\ninclusivity and effectiveness across diverse languages and cultures.\nMonolingual surveys have the potential to complement the broader trend towards\nmultilingualism in NLP by providing foundational insights and resources,\nnecessary for effectively addressing the linguistic diversity of global\ncommunication. However, monolingual NLP surveys are extremely rare in the\nliterature. This study introduces a generalizable methodology for creating\nsystematic and comprehensive monolingual NLP surveys, aimed at optimizing the\nprocess of constructing such surveys and thoroughly addressing a language's NLP\nsupport. Our approach integrates a structured search protocol to avoid\nselection bias and ensure reproducibility, an NLP task taxonomy to organize the\nsurveyed material coherently, and language resources (LRs) taxonomies to\nidentify potential benchmarks and highlight opportunities for improving\nresource availability (e.g., through better maintenance or licensing). We apply\nthis methodology to Greek NLP (2012-2023), providing a comprehensive overview\nof its current state and challenges. We discuss the progress of Greek NLP and\noutline the Greek LRs found, classified by availability and usability,\nassessing language support per NLP task. The presented systematic literature\nreview of Greek NLP serves as an application of our method that showcases the\nbenefits of monolingual NLP surveys more broadly. Similar applications could be\nconsidered for the myriads of languages whose progress in NLP lags behind that\nof well-supported languages.",
+    "pdf_url": "http://arxiv.org/pdf/2407.09861v3",
+    "published": "2024-07-13"
+  },
+  "2304.02746v1": {
+    "title": "Sejarah dan Perkembangan Teknik Natural Language Processing (NLP) Bahasa Indonesia: Tinjauan tentang sejarah, perkembangan teknologi, dan aplikasi NLP dalam bahasa Indonesia",
+    "authors": [
+      "Mukhlis Amien"
+    ],
+    "summary": "This study provides an overview of the history of the development of Natural\nLanguage Processing (NLP) in the context of the Indonesian language, with a\nfocus on the basic technologies, methods, and practical applications that have\nbeen developed. This review covers developments in basic NLP technologies such\nas stemming, part-of-speech tagging, and related methods; practical\napplications in cross-language information retrieval systems, information\nextraction, and sentiment analysis; and methods and techniques used in\nIndonesian language NLP research, such as machine learning, statistics-based\nmachine translation, and conflict-based approaches. This study also explores\nthe application of NLP in Indonesian language industry and research and\nidentifies challenges and opportunities in Indonesian language NLP research and\ndevelopment. Recommendations for future Indonesian language NLP research and\ndevelopment include developing more efficient methods and technologies,\nexpanding NLP applications, increasing sustainability, further research into\nthe potential of NLP, and promoting interdisciplinary collaboration. It is\nhoped that this review will help researchers, practitioners, and the government\nto understand the development of Indonesian language NLP and identify\nopportunities for further research and development.",
+    "pdf_url": "http://arxiv.org/pdf/2304.02746v1",
+    "published": "2023-03-28"
+  },
+  "2412.08520v1": {
+    "title": "GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek",
+    "authors": [
+      "Lefteris Loukas",
+      "Nikolaos Smyrnioudis",
+      "Chrysa Dikonomaki",
+      "Spyros Barbakos",
+      "Anastasios Toumazatos",
+      "John Koutsikakis",
+      "Manolis Kyriakakis",
+      "Mary Georgiou",
+      "Stavros Vassos",
+      "John Pavlopoulos",
+      "Ion Androutsopoulos"
+    ],
+    "summary": "We present GR-NLP-TOOLKIT, an open-source natural language processing (NLP)\ntoolkit developed specifically for modern Greek. The toolkit provides\nstate-of-the-art performance in five core NLP tasks, namely part-of-speech\ntagging, morphological tagging, dependency parsing, named entity recognition,\nand Greeklishto-Greek transliteration. The toolkit is based on pre-trained\nTransformers, it is freely available, and can be easily installed in Python\n(pip install gr-nlp-toolkit). It is also accessible through a demonstration\nplatform on HuggingFace, along with a publicly available API for non-commercial\nuse. We discuss the functionality provided for each task, the underlying\nmethods, experiments against comparable open-source toolkits, and future\npossible enhancements. The toolkit is available at:\nhttps://github.com/nlpaueb/gr-nlp-toolkit",
+    "pdf_url": "http://arxiv.org/pdf/2412.08520v1",
+    "published": "2024-12-11"
+  }
+}
